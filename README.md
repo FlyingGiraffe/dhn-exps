@@ -1,13 +1,14 @@
 # Denoising Hamiltonian Network for Physical Reasoning
 
-[Congyue Deng](),
-[Brandon Y. Feng](),
-[Cecilia Garraffo](),
-[Alan Garbarz](),
-[Robin Walters](),
-[William T. Freeman](),
-[Leonidas Guibas](),
-[Kaiming He]()
+Created by
+[Congyue Deng](https://cs.stanford.edu/~congyue/),
+[Brandon Y. Feng](https://brandonyfeng.github.io/),
+[Cecilia Garraffo](https://www.ceciliagarraffo.com/),
+[Alan Garbarz](https://scholar.google.com/citations?user=vz9CBV0AAAAJ&hl=en),
+[Robin Walters](https://www.robinwalters.com/),
+[William T. Freeman](https://billf.mit.edu/),
+[Leonidas Guibas](https://geometry.stanford.edu/?member=guibas), and
+[Kaiming He](https://people.csail.mit.edu/kaiming/)
 
 [**Paper**](https://arxiv.org/pdf/2503.07596) | [**Project**](https://cs.stanford.edu/~congyue/dhn/)
 
